@@ -12,7 +12,7 @@
 }
 
 .App {
-  width: 950px;
+  width: 1000px;
 }
 
 .table_users {
@@ -22,4 +22,15 @@
   margin-top: 15px;
   justify-content: space-between;
   align-items: center;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  padding: 0 15px;
+  margin-left: 500px;
+}
+
+.navbar__links {
+  margin-left: auto;
 }
