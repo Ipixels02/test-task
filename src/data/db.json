@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "firstName": "Michael",
+    "lastName": "Lawson",
+    "patro": "Thiel",
+    "birthday": "1999-04-17",
+    "gender": "male",
+    "snils": "904-476-6498",
+    "consultation": {
+      "date": "2022-04-17",
+      "time": "16:00",
+      "symptoms": "Кашель"
+    }
+  },
+  {
+    "id": 2,
+    "firstName": "Lindsay",
+    "lastName": "Ferguson",
+    "patro": "Tremblay",
+    "birthday": "1958-02-09",
+    "gender": "female",
+    "snils": "397-236-0069",
+    "consultation": {
+      "date": "2022-07-09",
+      "time": "13:00",
+      "symptoms": "Температура"
+    }
+  },
+  {
+    "id": 3,
+    "firstName": "Tobias",
+    "lastName": "Funke",
+    "patro": "Daugherty",
+    "birthday": "2003-05-09",
+    "gender": "male",
+    "snils": "834-643-5006",
+    "consultation": {
+      "date": "2022-12-23",
+      "time": "15:00",
+      "symptoms": "Головокружение, озноб"
+    }
+  },
+  {
+    "id": 4,
+    "firstName": "Byron",
+    "lastName": "Fields",
+    "patro": "Emmerich",
+    "birthday": "1961-10-22",
+    "gender": "male",
+    "snils": "187-346-0688",
+    "consultation": {
+      "date": "2022-10-18",
+      "time": "12:00",
+      "symptoms": "Покраснение в горле"
+    }
+  },
+  {
+    "id": 5,
+    "firstName": "George",
+    "lastName": "Edwards",
+    "patro": "Hermiston",
+    "birthday": "1988-03-02",
+    "gender": "male",
+    "snils": "125-088-2167",
+    "consultation": {
+      "date": "2022-09-26",
+      "time": "11:00",
+      "symptoms": "Температура, головокружение"
+    }
+  },
+  {
+    "id": 6,
+    "firstName": "Rachel",
+    "lastName": "Howell",
+    "patro": "Borer",
+    "birthday": "1997-04-20",
+    "gender": "female",
+    "snils": "940-861-3560",
+    "consultation": {
+      "date": "2022-09-03",
+      "time": "17:00",
+      "symptoms": "Прокрастинация"
+    }
+  }
+]
